@@ -1,0 +1,17 @@
+INFO     mylogger:api_util.py:48 YAML文件格式检测通过
+INFO     mylogger:api_util.py:50 YAML文件热加载完成
+INFO     mylogger:api_logging.py:47 开始执行第3条用例
+INFO     mylogger:api_logging.py:48 接口名称:添加到淘宝备注记录
+INFO     mylogger:api_logging.py:49 接口信息:输入正确的备注信息
+INFO     mylogger:api_logging.py:50 请求方式:post
+INFO     mylogger:api_logging.py:51 请求地址:https://trade.aiyongtech.com/order/modifyMemo
+INFO     mylogger:api_logging.py:53 请求参数:{'tid': 3507908835364860759, 'memo': '接口测试专用12', 'flag': 3, 'ayCustomFlag': 3, 'created': '2023-09-05 16:48:00', 'reset': False, 'modified': '2023-09-21 11:16:51', 'apiVersion': '1.0.0', 'trade_source': 'TAO'}
+INFO     mylogger:api_logging.py:65 预期结果:响应码为200
+INFO     mylogger:api_logging.py:66 实际结果:响应码为200
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:状态码为200
+INFO     mylogger:api_logging.py:66 实际结果:状态码为200
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:成功
+INFO     mylogger:api_logging.py:66 实际结果:查询结果为成功
+INFO     mylogger:api_logging.py:68 断言结果:成功

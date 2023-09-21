@@ -1,0 +1,29 @@
+INFO     mylogger:api_util.py:48 YAML文件格式检测通过
+INFO     mylogger:api_util.py:50 YAML文件热加载完成
+INFO     mylogger:api_logging.py:47 开始执行第5条用例
+INFO     mylogger:api_logging.py:48 接口名称:备注
+INFO     mylogger:api_logging.py:49 接口信息:查询最新的历史备注信息
+INFO     mylogger:api_logging.py:50 请求方式:post
+INFO     mylogger:api_logging.py:51 请求地址:https://trade.aiyongtech.com/memo/list
+INFO     mylogger:api_logging.py:53 请求参数:{'tid': 3507908835364860759, 'orderCreate': '2023-09-05 16:48:00', 'trade_source': 'TAO'}
+INFO     mylogger:api_logging.py:65 预期结果:状态码为200
+INFO     mylogger:api_logging.py:66 实际结果:状态码为200
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:成功
+INFO     mylogger:api_logging.py:66 实际结果:查询结果为成功
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:2023-09-21 11:16:50
+INFO     mylogger:api_logging.py:66 实际结果:2023-09-2111:16:50
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:小明test6168
+INFO     mylogger:api_logging.py:66 实际结果:小明test6168
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:接口测试专用12
+INFO     mylogger:api_logging.py:66 实际结果:接口测试专用12
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:3
+INFO     mylogger:api_logging.py:66 实际结果:3
+INFO     mylogger:api_logging.py:68 断言结果:成功
+INFO     mylogger:api_logging.py:65 预期结果:3
+INFO     mylogger:api_logging.py:66 实际结果:3
+INFO     mylogger:api_logging.py:68 断言结果:成功
